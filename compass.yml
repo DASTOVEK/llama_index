@@ -1,0 +1,13 @@
+name: llama_index
+id: ari:cloud:compass:a5fd7e86-1037-4957-88e1-656b1179d617:component/30307f94-33fc-4613-b40d-651fee166c5e/b7b08fe9-967c-434d-940c-d26a132b0af0
+description: LlamaIndex is the leading framework for building LLM-powered agents over your data.
+configVersion: 1
+typeId: SERVICE
+fields:
+  tier: 4
+links: []
+relationships:
+  DEPENDS_ON: []
+labels:
+  - source:github
+customFields: null
